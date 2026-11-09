@@ -13,3 +13,8 @@ A robust, console-based Java Point of Sale (POS) and inventory management system
 - Kitchen Order Routing (KOT): Automatic generation of unique 4-digit ticket IDs for kitchen tracking.
 
 - Admin Security Controls: Password-protected End-of-Day (EOD) sales revenue summaries and secure system exit guards.
+
+# How to use?
+Download all .java files and use an IDE of your choice and open it all in the same folder with the name "SnaxStation" this is case sensitive as the code may not compile properly if you wont do this part.
+
+Additionally you can use any online compiler just upload all of the .java files and remove the "package com.mycompany.snaxstation;" in the all of the classes for it to compile properly.
